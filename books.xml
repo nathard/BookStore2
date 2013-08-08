@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href = "books.xsl" type = "text/xsl" version = "1.0"?>
+<!-- Description: Assignment 2 -->
+<!-- Author: LE VIET THANH PHONG -->
+<!-- Modified Date: 20 Sept 2011 -->
+<!-- Date: 30 Sept 2011 -->
+<!-- Validated: OK 30 Aug 2011 -->
+<CATALOG name="Book List">
+<BOOK >
+	<TITLE id ="0">White Fang</TITLE>
+	<AUTHOR>Kathleen Olmstead, Jack London, Dan Andreasen</AUTHOR>
+	<PUBLISHER>Sterling</PUBLISHER>
+	<ISBN> 
+		<ISBN1>1402725000</ISBN1>
+		<ISBN2>9781402725005</ISBN2>
+	</ISBN>
+	<PRICE>$25.00</PRICE>
+	<YEAR>2006</YEAR>	
+	<DESCRIPTION>Half wolf, half dog, White Fang fully understands the cruelty of both nature and humans. After nearly starving to death during the frigid Arctic winter, he's taken in first by a man who "trains" him through constant whippings, and then by another who forces him to participate in vicious dogfights. Follow White Fang as he overcomes these obstacles and finally meets someone who offers him kindness and love.</DESCRIPTION>
+	<SHORTDESCRIPTION>Half wolf, half dog, White Fang fully understands the cruelty...</SHORTDESCRIPTION>
+	<IMAGE>images/wf.jpg</IMAGE>
+	<URL>details.php?action=show&amp;id=1</URL>
+</BOOK>
+<BOOK >
+	<TITLE id="1">Summer Cooking</TITLE>
+	<AUTHOR>Elizabeth David</AUTHOR>
+	<PUBLISHER>Grub Street</PUBLISHER>
+	<ISBN>
+		<ISBN1>1908117044</ISBN1>
+		<ISBN2>9781908117045</ISBN2>
+	</ISBN>
+	<PRICE>$15.00</PRICE>
+	<YEAR>2011</YEAR>
+	<COLOR></COLOR>
+	<DESCRIPTION>For Elizabeth David, summer fare meant fresh, seasonal food-recipes that could be prepared quickly and savoured slowly, from Gnocchi alla Genovese ('simply an excuse for eating pesto') to La Poule au Pot to Gooseberry Fool. Her 1955 classic work, now reissued in a handsome, attractively priced hardback edition, includes an overview of herbs as well as chapters on impromptu cooking for holidays and picnics. Divided into chapters on Soups, Salads, Eggs, Fish, Meat, Poultry and Game, Vegetables, and Sweets, it contains recipes from all over the world. "Summer Cooking" is a witty, precise companion for feasting in the warmer months - every bit as unexpected and enchanting to read today as it was 50 years ago. But the purest thrill of "Summer Cooking", as in all of her books, is the pleasure her food delivers and the graceful way her prose captures the reader's delight.</DESCRIPTION>
+	<SHORTDESCRIPTION>For Elizabeth David, summer fare meant fresh, seasonal food...</SHORTDESCRIPTION>
+	<IMAGE>images/media.jpg</IMAGE>
+	<URL>details.php?action=show&amp;id=2</URL>
+</BOOK>
+<BOOK>
+	<TITLE id="2">Fundamentals of financial management</TITLE>
+	<AUTHOR>James C. Van Horne, John M. Wachowicz</AUTHOR>
+	<PUBLISHER>Financial Times/Prentice Hall</PUBLISHER>
+	<ISBN>
+		<ISBN1>0273685988</ISBN1>
+		<ISBN2>9780273685982</ISBN2>
+	</ISBN>
+	<PRICE>$37.00</PRICE>
+	<YEAR>2005</YEAR>
+	<COLOR></COLOR>
+	<DESCRIPTION>Do you want to understand the impacts financial decisions have on the value of companies? Ideal for those new to financial management, this sparklingly clear text cuts through the mire of the financial decision-making process. A practical and reliable book, free from technical errors, backed up by a wealth of award-winning support material. Fundamentals of Financial Management is your route to understanding the impacts of financial decisions on value creation.Covers the 3 key areas of financial management decisions:*investment*financing*asset management"wonderful book" Enrico Gallina, The European School of Economics, Italy"this is the best book I have found so far" Jean Bellemans, VUB, Belgium"A classic book that is probably the best that has been written. My students like the book. I find it very significant that the students are not confused by the material or terminology." Peter Went, Bucknell University, USA"an informative, entertaining website" Strategic Finance MagazineIdeal for introductory courses in financial management. It is also useful for those studying for a professional qualification or as a reference for practitioners.Suggested reading for Certified Financial Manager (CFM) and Certified Management Accountant (CMA) examinations.James C. Van Horne, Professor of Banking and Finance at Stanford University, is also the author of Financial Management and Policy, a Pearson Education text.John M. Wachowicz JR. is Professor of Finance at The University of Tennessee</DESCRIPTION>
+	<SHORTDESCRIPTION>Do you want to understand the impacts financial decisions...</SHORTDESCRIPTION>
+	<IMAGE>images/finance.jpg</IMAGE>
+	<URL>details.php?action=show&amp;id=3</URL>
+</BOOK>
+<BOOK>
+	<TITLE id="3">Business Information Systems: Analysis, Design and Practice</TITLE>
+	<AUTHOR>Graham Curtis, David Cobham</AUTHOR>
+	<PUBLISHER>Pearson Education</PUBLISHER>
+	<ISBN>
+		<ISBN1>0273713825</ISBN1>
+		<ISBN2>9780273713821</ISBN2>
+	</ISBN>
+	<PRICE>$55.50</PRICE>
+	<YEAR>2008</YEAR>
+	<COLOR></COLOR>
+	<DESCRIPTION>This book aims to equipthose in, or entering business to assess the opportunities, limitations and major issues surrounding modern business information systems and to appreciate the way that information systems can aid the realization of business objectives. This book provides students with: good technical coverage, accessible coverage for both business students and computing students, interesting case studies, including a running case throughout the systems development chapters, showing real world application of ideas and technologies, European context and examples PowerPoint slides and additional test questions for Lecturers online. New to this edition? Chapters 10-15 on Systems Development, Analysis and Design have been replaced by new chapters taking an object oriented approach. The structured approach is still summarised in chapter 16 and the content from the previous edition is included in full online in the Companion Website. Case studies, questions and activities have been updated throughout. An introduction or increased focus on current topics such as globalisation, agile methods, E-Business, security and trust, off the shelf solutions, CRM, legacy systems integration, business intelligence, data warehousing and data mining.</DESCRIPTION>
+	<SHORTDESCRIPTION>This book aims to equipthose in, or entering business to...</SHORTDESCRIPTION>
+	<IMAGE>images/is.jpg</IMAGE>
+	<URL>details.php?action=show&amp;id=4</URL>
+</BOOK>
+<BOOK>
+	<TITLE id="4">Microsoft SQL Server 2008 Management and Administration</TITLE>
+	<AUTHOR>Ross Mistry, Rand Morimoto</AUTHOR>
+	<PUBLISHER>	Sams</PUBLISHER>
+	<ISBN>
+		<ISBN1>067233044X</ISBN1>
+		<ISBN2>9780672330445</ISBN2>
+	</ISBN>
+	<PRICE>$70.20</PRICE>
+	<YEAR>2009</YEAR>
+	<COLOR></COLOR>
+	<DESCRIPTION>If you need to deploy, manage, or secure Microsoft SQL Server 2008, this is the complete, fast-paced, task-based reference you've been searching for. Authored by a world-class expert on SQL Server in the enterprise, this book goes far beyond the basics, taking on the complex tasks that DBAs need to make the most of Microsoft's flagship database platform. SQL Server MVP, Ross Mistry presents proven techniques for SQL Server 2008 installation, upgrades, backup/restore, data transfer, indexing, high availability, security, and much more. He draws on extensive testing in high-profile production environments to offer step-by-step solutions and powerful tips you won't find anywhere else. Every chapter begins with a section identifying SQL Server 2008's most significant new improvements, and concludes with a convenient summary of best practices. Each chapter also outlines the benefits of leveraging Windows Server 2008. Understand how to: Master DBA tips, tricks, and best practices proven in actual enterprise environments Install, upgrade or transition to SQL Server 2008. Harden and Secure an implementation. Encrypt SQL Server from an end-to-end perspective. Implement high availability and leverage SQL Server 2008's major improvements to failover clustering and database mirroring Save time with SQL Server 2008's new policy-based management tools Performance tune and troubleshoot a SQL Server 2008 environment. Optimize application performance and manage workloads with the powerful new Resource Governor Implement Performance Studio, maintenance plans, Transparent Data Encryption and much more Bonus Content: The book is based on Windows Server 2008 Step by step instructions of how to implement a failover cluster on Windows Server 2008 SQL Server PoweShell Administration Tasks Consolidate and virtualize SQL Server with Hyper-V Step by step instructions on how to install Hyper-V Proactively Monitor SQL Server with Operations Manager Install Windows Server 2008 certificates to encrypt SQL Server data Contributing Writers include: Hilary Cotter - SQL Server MVP John Welch - SQL Server MVP Marco Shaw - PowerShell MVP Maciej Pilecki - SQL Server MVP Shirmattie Seenarine - Technical Writer</DESCRIPTION>
+	<SHORTDESCRIPTION>If you need to deploy, manage, or secure Microsoft SQL...</SHORTDESCRIPTION>
+	<IMAGE>images/sql.jpg</IMAGE>
+	<URL>details.php?action=show&amp;id=5</URL>
+</BOOK>
+<BOOK>
+	<TITLE id="5">Mastering Microsoft Exchange Server 2007</TITLE>
+	<AUTHOR>Barry Gerber, Jim McBee</AUTHOR>
+	<PUBLISHER>John Wiley and Sons</PUBLISHER>
+	<ISBN>
+		<ISBN1>0470042893</ISBN1>
+		<ISBN2>9780470042892</ISBN2>
+	</ISBN>
+	<PRICE>$80.60</PRICE>
+	<YEAR>2007</YEAR>
+	<COLOR></COLOR>
+	<DESCRIPTION>Discover How to Customize Exchange Server 2007 for Your EnvironmentBy utilizing the latest features ofMicrosoft Exchange Server 2007, you'll be able to provide your company with the security it needs while enabling employees to access critical information regardless of their location or type of device.Now with this comprehensive guide, you'll find out how to effectively install, configure, and manage Microsoft's powerful messaging and collaboration server. From reducing the amount of spam your company receives to ensuring you have the right disaster recovery strategy, authors Barry Gerber and Jim McBee share their extensive real-world experience as they walk you step-by-step through each process. You'll learn the essential techniques for planning and design, deployment, administration, maintenance, and troubleshooting.Fully updated for Exchange Server 2007 and Windows Server 2003 R2, this book also covers new capabilities, including wireless access, security, customized e-mail forms for Outlook, and more.Coverage includes: Installing, configuring, and scaling a new Exchange 2007 system Utilizing the admin console to delegate permissions Managing e-mail recipients, address lists, and folder content Ensuring Exchange Server reliability and availability Accessing Outlook email using Windows Mobile and ActiveSync devices Configuring wireless access to Exchange Server 2007 Securing Exchange Server against hackers, spam, and viruses Supporting Outlook 2007 and configuring it on the Exchange Server Learn How to Successfully Design a New Exchange 2007 SystemCreate, Deploy, and Administer a Collaborative Messaging SolutionTake Advantage of Enhanced Security and Wireless Access FeaturesBuild Redundancy and Availability into Your SystemLog, Audit, and Monitor All Activities to Keep Unwanted Content Out</DESCRIPTION>
+	<SHORTDESCRIPTION>Discover How to Customize Exchange Server 2007 for Your...</SHORTDESCRIPTION>
+	<IMAGE>images/me2007.jpg</IMAGE>
+	<URL>details.php?action=show&amp;id=6</URL>
+</BOOK>
+<BOOK>
+	<TITLE id="6">Visual Basic 2008: how to program</TITLE>
+	<AUTHOR>Paul J. Deitel, Harvey M. Deitel</AUTHOR>
+	<PUBLISHER>Prentice Hall</PUBLISHER>
+	<ISBN>
+		<ISBN1>013605305X</ISBN1>
+		<ISBN2>9780136053057</ISBN2>
+	</ISBN>
+	<PRICE>$62.00</PRICE>
+	<YEAR>2009</YEAR>
+	<COLOR></COLOR>
+	<DESCRIPTION>Created by world-renowned programming instructors Paul and Harvey Deitel, Visual Basic 2008 How to Program, Fourth Editionintroduces all facets of the Visual Basic 2008 language hands-on, through hundreds of working programs.This book has been thoroughly updated to reflect the major innovations Microsoft has incorporated in Visual Basic 2008 and .NET 3.5; all discussions and sample code have been carefully audited against the newest Visual Basic language specification. The many new platform features covered in depth in this edition include: LINQ data queries, Windows Presentation Foundation (WPF), ASP.NET Ajax and the Microsoft Ajax Library, Silverlight-based rich Internet application development, and creating Web services with Windows Communication Foundation (WCF). New language features introduced in this edition: object anonymous types, object initializers, implicitly typed local variables and arrays, delegates, lambda expressions, and extension methods. A series of appendices provide essential programming reference material on topics ranging from number systems to the Visual Studio Debugger, UML 2 to Unicode and ASCII. AUDIENCE:Appropriate for anyone interested in learning programming with Visual Basic 2008.</DESCRIPTION>
+	<SHORTDESCRIPTION>Created by world-renowned programming instructors...</SHORTDESCRIPTION>
+	<IMAGE>images/vb.jpg</IMAGE>
+	<URL>details.php?action=show&amp;id=7</URL>
+</BOOK>
+<BOOK>
+	<TITLE id="7">XML : a beginner's guide</TITLE>
+	<AUTHOR>Dave Mercer</AUTHOR>
+	<PUBLISHER>McGraw-Hill</PUBLISHER>
+	<ISBN>
+		<ISBN1>0071606262</ISBN1>
+		<ISBN2>9780071606264</ISBN2>
+	</ISBN>
+	<PRICE>$20.00</PRICE>
+	<YEAR>2009</YEAR>
+	<COLOR></COLOR>
+	<DESCRIPTION>Get started programming in XML right away with help from this hands-on tutorial. XML: A Beginner's Guide explains how to store data in and retrieve data from XML documents, format data with Cascading Style Sheets, display data in Web browsers, and use Java and JavaScript. The book covers the latest innovations in XML, including Ajax, XHTML, XPath 2.0, XSLT 2.0, and the new XQuery specification. Now it's easier than ever to learn how to create your own XML solutions!</DESCRIPTION>
+	<SHORTDESCRIPTION>Get started programming in XML right away with help...</SHORTDESCRIPTION>
+	<IMAGE>images/XML.jpg</IMAGE>
+	<URL>details.php?action=show&amp;id=8</URL>
+</BOOK>
+
+<BOOK>
+	<TITLE id="8">Fedora Bible 2011 Edition:Featuring Fedora Linux 14</TITLE>
+	<AUTHOR>Christopher Negus, Eric Foster-Johnson</AUTHOR>
+	<PUBLISHER>John Wiley and Sons</PUBLISHER>
+	<ISBN>
+		<ISBN1>047094496X</ISBN1> 
+		<ISBN2>9780470944967</ISBN2>
+	</ISBN>
+	<PRICE>$50.00</PRICE>
+	<YEAR>2011</YEAR>
+	<COLOR></COLOR>
+	<DESCRIPTION>Get all the essentials of the major changes in Fedora 14 Veteran authors Christopher Negus and Eric Foster-Johnson provide you with a thorough look at the skills needed to master the latest version of Fedora and Red Hat Linux. Their step-by-step instructions walk you through a painless and simple installation of Linux; then you'll explore the major changes to the release of Fedora 14 while also revisiting the previous version so you can see what features have been updated and revised. Focuses on the essentials of the updated and new elements of Fedora Linux 14 Addresses using packagekit, running Windows apps, scanning images, and installing over the Internet Touches on how to work in a Linux office with MSFT office compatible office apps Covers new material on zarafa, xenner, deja dup, and more Features a DVD that includes the latest distribution of Fedora Linux as well as a bootable Fedora LiveCD Fedora 14 includes many important updates and additions -- this book gets you up to date on the most essential changes.</DESCRIPTION>
+	<SHORTDESCRIPTION>Get all the essentials of the major changes in Fedora...</SHORTDESCRIPTION>
+	<IMAGE>images/fedora.jpg</IMAGE>
+	<URL>details.php?action=show&amp;id=9</URL>
+</BOOK>
+<BOOK >
+	<TITLE id="9">Media/Society: Industries, Images, and Audiences</TITLE>
+	<AUTHOR>William Hoynes, David Croteau, Stefania Milan</AUTHOR>
+	<PUBLISHER>SAGE Publications</PUBLISHER>
+	<ISBN>
+		<ISBN1>1412974208</ISBN1>
+		<ISBN2>9781412974202</ISBN2>
+	</ISBN>
+	<PRICE>$63.00</PRICE>
+	<YEAR>2011</YEAR>
+	<COLOR></COLOR>
+	<DESCRIPTION>Media/Society: Industries, Images, and Audiences provides a framework to help students understand the relationship between media and society and helps students develop skills for critically evaluating both conventional wisdom and one's own assumptions about the social role of the media.</DESCRIPTION>
+	<SHORTDESCRIPTION>Media/Society: Industries, Images, and Audiences provides...</SHORTDESCRIPTION>
+	<IMAGE>images/media.jpg</IMAGE>
+	<URL>details.php?action=show&amp;id=10</URL>
+</BOOK>
+<BOOK>
+	<TITLE id="10">Visual C# 2008 How to Program</TITLE>
+	<AUTHOR>Paul J. Deitel, Harvey M. Deitel</AUTHOR>
+	<PUBLISHER>Prentice Hall</PUBLISHER>
+	<ISBN>
+		<ISBN1>013605322X</ISBN1> 
+		<ISBN2>9780136053224</ISBN2>
+	</ISBN>
+	<PRICE>$60.30</PRICE>
+	<YEAR>2008</YEAR>
+	<COLOR></COLOR>
+	<DESCRIPTION>Created by world-renowned programming instructors Paul and Harvey Deitel, Visual C# 2008 How to Program, Third Edition introduces all facets of the C# 2008 language through the Deitels'signature "Live Code" Approach", that features hundreds of working programs.This book has been thoroughly updated to reflect the major innovations Microsoft has incorporated in Visual C# 2008 and .NET 3.5; The many new platform features covered include: LINQ (Language Integrated Query), Windows Presentation Foundation (WPF), ASP.NET Ajax and the Microsoft Ajax Library, Silverlight-based rich Internet application development, and creating Web services with Windows Communication Foundation (WCF). New language features introduced in this edition: automatic properties, object initializers, partial classes and methods, anonymous methods, Lambda expressions, extension methods, anonymous types, and collection initializers. Extensively updated coverage of delegates.and more sophisticated techniques, including searching, sorting, data structures, generics, and collections. Appendices provide essential programming reference material on topics ranging from number systems to the Visual Studio Debugger, UML 2 to Unicode and ASCII.Appropriate for all basic-to-intermediate level Visual C# 2008 programmers.</DESCRIPTION>
+	<SHORTDESCRIPTION>Created by world-renowned programming instructors...</SHORTDESCRIPTION>
+	<IMAGE>images/csharp.jpg</IMAGE>
+	<URL>details.php?action=show&amp;id=11</URL>
+</BOOK>
+
+<BOOK>
+	<TITLE id="11">CCNP switching study guide</TITLE>
+	<AUTHOR>Todd Lammle, Kevin Hales</AUTHOR>
+	<PUBLISHER>Sybex</PUBLISHER>
+	<ISBN>
+		<ISBN1>0782127118</ISBN1> 
+		<ISBN2>9780782127119</ISBN2>
+	</ISBN>
+	<PRICE>$46.30</PRICE>
+	<YEAR>2001</YEAR>
+	<COLOR></COLOR>
+	<DESCRIPTION>The most comprehensive study guides available for the Cisco certification exams. Each Study Guide features:
+- Full coverage of all Cisco exam topics
+- Hands-on labs for learning vital skills
+- 200 practice questions for assessing your knowledge and understanding of the material
+- Test-preparation software on the CD, plus a bonus exam not in the book
+- Valuable networking tools and utilities on the CD
+- Electronic flashcards for PCs and Palm devices
+- Searchable electronic version of the entire book</DESCRIPTION>
+	<SHORTDESCRIPTION>The most comprehensive study guides available for the...</SHORTDESCRIPTION>
+
+	<IMAGE>images/ccnp.jpg</IMAGE>
+	<URL>details.php?action=show&amp;id=12</URL>
+</BOOK>
+</CATALOG>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<data>
+<book>
+	<title>Test 1</title>
+	<author>Test 1</author>
+	<publisher>	Test 1</publisher>
+	<isbn1>Test 1</isbn1>
+	<isbn2>Test 1</isbn2>
+	<year>1999</year>
+	<price>50</price>
+	<image>Test 1</image>
+	<quantity>1</quantity>
+	<categoryid>1</categoryid>
+</book>
+<book>
+	<title>Test 2</title>
+	<author>Test 2</author>
+	<publisher>	Test 2</publisher>
+	<isbn1>Test 2</isbn1>
+	<isbn2>Test 2</isbn2>
+	<year>1999</year>
+	<price>20</price>
+	<image>Test 2</image>
+	<quantity>2</quantity>
+	<categoryid>2</categoryid>
+</book>
+</data>

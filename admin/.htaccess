@@ -1,0 +1,4 @@
+AuthUserFile /home/vtl/public_html/ass4/admin/.htpasswd
+AuthType Basic
+AuthName "Book Store Admin"
+Require valid-user
